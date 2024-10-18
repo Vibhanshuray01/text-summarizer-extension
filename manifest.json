@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Text Summarizer",
+    "version": "1.0",
+    "description": "Summarize selected text from a webpage.",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.svg"
+    },
+    "background": {
+        "service_worker": "background.js"
+    }
+}
