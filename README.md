@@ -1,7 +1,7 @@
 # Text Summarizer Extension
 
 ## Description
-The **Text Summarizer** is a Chrome extension that allows users to easily summarize selected text from any webpage. Utilizing the Hugging Face API, this extension provides quick and accurate summaries, enhancing productivity and comprehension.
+The **Text Summarizer** is a web browser extension, (this one was used for Edge)  that allows users to easily summarize selected text from any webpage. Utilizing the Hugging Face API, this extension provides quick and accurate summaries, enhancing productivity and comprehension.
 
 ## Features
 - **Summarize Selected Text**: Highlight any text on a webpage and click the summarize button to get a concise summary.
